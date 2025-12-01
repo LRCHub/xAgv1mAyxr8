@@ -1,0 +1,17 @@
+# Avicii – Levels (Radio Edit)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[01:23.28] Oh, sometimes
+[01:26.77] I get a good feeling, yeah
+[01:31.60] Get a feeling that I never, never
+[01:34.02] Never, never had before, no, no
+[01:36.10] I get a good feeling, yeah
+[01:49.10] 
+[01:38.32] Oh, sometimes
+[01:41.99] I get a good feeling, yeah
+[01:47.07] Get a feeling that I never, never
+[01:49.33] Never, never had before, no,no
+[01:51.33] I get a good feeling, yeah
+```
